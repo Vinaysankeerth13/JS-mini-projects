@@ -1,6 +1,5 @@
 This HTML code represents a weather application with a search feature. Let's break down each part of the code:
 
-
 1. `<!DOCTYPE html>`: This declaration defines the document type and version of HTML being used, which is HTML5 in this case.
 
 2. `<html lang="en">`: This opening tag defines the root element of the HTML document and specifies the language of the document as English (`"en"`).

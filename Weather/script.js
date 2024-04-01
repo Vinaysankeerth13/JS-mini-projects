@@ -1,6 +1,7 @@
 const apikey = "0e19ea201bbb6f9b577d4dc753f46f9c"; 
 // Declaring a const variable "api key" and assigning it the key that was given to us by the "OpenWeatherMap website"
 
+
     const apiurl = "https://api.openweathermap.org/data/2.5/weather?units=metric&q="; 
     // This is the api URL from "OpenWeatherMap" from which we are getting the data.
 

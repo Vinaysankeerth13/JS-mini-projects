@@ -6,6 +6,7 @@ This CSS code provides styling for a weather application interface. Let's break 
    - `font-family: 'poppins', Times, serif;`: Sets the default font family to 'Poppins', a sans-serif font, with fallback to 'Times' and then to a generic serif font.
    - `box-sizing: border-box;`: Ensures that padding and border are included in the element's total width and height.
 
+
 2. `body`: Styles the body element.
 
    - `background: #222;`: Sets the background color of the body to a dark gray (#222).
